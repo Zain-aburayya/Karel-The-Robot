@@ -1,0 +1,34 @@
+Dimension: (10, 10)
+Wall: (1, 8) south
+Wall: (2, 8) south
+Wall: (3, 8) west
+Wall: (3, 9) west
+Wall: (3, 10) west
+Wall: (4, 1) west
+Wall: (4, 2) west
+Wall: (4, 3) west
+Wall: (4, 4) west
+Wall: (4, 5) south
+Wall: (5, 5) south
+Wall: (6, 5) south
+Wall: (7, 5) south
+Wall: (7, 8) west
+Wall: (7, 8) south
+Wall: (7, 9) west
+Wall: (7, 10) west
+Wall: (8, 5) south
+Wall: (8, 8) south
+Wall: (9, 5) south
+Wall: (9, 8) south
+Wall: (10, 5) west
+Wall: (10, 6) west
+Wall: (10, 7) west
+Beeper: (1, 7) 1
+Beeper: (3, 8) 1
+Beeper: (4, 5) 1
+Beeper: (7, 7) 1
+Beeper: (8, 5) 1
+Karel: (2, 1) east
+
+BeeperBag: INFINITE
+Speed: 0.00
